@@ -1,0 +1,15 @@
+C:\Users\lucas\RiderProjects\CeaserCipher\CeaserCipher\bin\Debug\net7.0\CeaserCipher.exe
+C:\Users\lucas\RiderProjects\CeaserCipher\CeaserCipher\bin\Debug\net7.0\CeaserCipher.deps.json
+C:\Users\lucas\RiderProjects\CeaserCipher\CeaserCipher\bin\Debug\net7.0\CeaserCipher.runtimeconfig.json
+C:\Users\lucas\RiderProjects\CeaserCipher\CeaserCipher\bin\Debug\net7.0\CeaserCipher.dll
+C:\Users\lucas\RiderProjects\CeaserCipher\CeaserCipher\bin\Debug\net7.0\CeaserCipher.pdb
+C:\Users\lucas\RiderProjects\CeaserCipher\CeaserCipher\obj\Debug\net7.0\CeaserCipher.csproj.AssemblyReference.cache
+C:\Users\lucas\RiderProjects\CeaserCipher\CeaserCipher\obj\Debug\net7.0\CeaserCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\RiderProjects\CeaserCipher\CeaserCipher\obj\Debug\net7.0\CeaserCipher.AssemblyInfoInputs.cache
+C:\Users\lucas\RiderProjects\CeaserCipher\CeaserCipher\obj\Debug\net7.0\CeaserCipher.AssemblyInfo.cs
+C:\Users\lucas\RiderProjects\CeaserCipher\CeaserCipher\obj\Debug\net7.0\CeaserCipher.csproj.CoreCompileInputs.cache
+C:\Users\lucas\RiderProjects\CeaserCipher\CeaserCipher\obj\Debug\net7.0\CeaserCipher.dll
+C:\Users\lucas\RiderProjects\CeaserCipher\CeaserCipher\obj\Debug\net7.0\refint\CeaserCipher.dll
+C:\Users\lucas\RiderProjects\CeaserCipher\CeaserCipher\obj\Debug\net7.0\CeaserCipher.pdb
+C:\Users\lucas\RiderProjects\CeaserCipher\CeaserCipher\obj\Debug\net7.0\CeaserCipher.genruntimeconfig.cache
+C:\Users\lucas\RiderProjects\CeaserCipher\CeaserCipher\obj\Debug\net7.0\ref\CeaserCipher.dll
